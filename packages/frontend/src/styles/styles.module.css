@@ -1,0 +1,9 @@
+body {
+  background: linear-gradient(to right, #3f51b5, #5a55ae);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans',
+    'Helvetica Neue', sans-serif;
+}
+
+form {
+  overflow-y: auto;
+}
