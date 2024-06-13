@@ -31,18 +31,18 @@ The connection string should be for this case `mongodb://localhost:27017/`. Afte
 ![db access](/images/mongodb.png?raw=true "db access")
 
 ## Future Improvements
+
 ### User Improvements
-Enhance migration information to establish routes instead of just specific points on the map.
-Include the ability to save an interesting migration to the user's profile.
+Enhance migration information to establish routes instead of just specific points on the map.  
+Include the ability to save an interesting migration to the user's profile.  
 Improve real-time notifications so they are only sent to users who have a location close to the established migration point (currently, notifications are sent to all users).
 
 ### Technical Debts
-Improve the security of user passwords.
-Unify styles. Currently, there is a mix of styled-components, MUI components, and inline styles.
-Improve responsive design details.
-Include E2E unit tests for server endpoints.
-Include unit tests for frontend components.
-Possible implementation of Storybook.
-Implement data persistence at the database level for user notifications (alerts button in the top right corner).
+Improve the security of user passwords.  
+Unify styles. Currently, there is a mix of styled-components, MUI components, and inline styles.  
+Improve responsive design details.  
+Include E2E unit tests for server endpoints.  
+Include unit tests for frontend components.  
+Possible implementation of Storybook.  
+Implement data persistence at the database level for user notifications (alerts button in the top right corner).  
 Implement email notifications when an interesting migration is about to start.
-
